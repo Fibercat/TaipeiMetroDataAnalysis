@@ -8,8 +8,11 @@
 * GitHub - 北台灣捷運站地址及經緯度相關資料 https://github.com/repeat/northern-taiwan-metro-stations
 * Google MAPS Platform - Distance Matrix API https://developers.google.com/maps/documentation/distance-matrix/overview
 
-## 分析結果請見: [TaipeiMetroDataAnalysis_AngelaYang_202010726.pdf](https://github.com/Fibercat/TaipeiMetroDataAnalysis/blob/main/TaipeiMetroDataAnalysis_AngelaYang_202010726.pdf)
+## 分析結果請見: 
+[TaipeiMetroDataAnalysis_AngelaYang_202010726.pdf](https://github.com/Fibercat/TaipeiMetroDataAnalysis/blob/main/TaipeiMetroDataAnalysis_AngelaYang_202010726.pdf)
+[Tableau Visualization result](https://public.tableau.com/views/Taipei_Metro_under_COVID-19_20210729/COVID-19?:language=zh-TW&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ![image](https://github.com/Fibercat/TaipeiMetroDataAnalysis/blob/main/charts/DailyRidership_2016to202106.png)
 ![image](https://github.com/Fibercat/TaipeiMetroDataAnalysis/blob/main/charts/DailyRidership_vs_Covid19Cases.png)
 ![image](https://github.com/Fibercat/TaipeiMetroDataAnalysis/blob/main/charts/COVID19_HourlyRoutesTripsComparison.png)
-[Tableau Visualization result](https://public.tableau.com/views/Taipei_Metro_under_COVID-19_20210729/COVID-19?:language=zh-TW&publish=yes&:display_count=n&:origin=viz_share_link)
+
