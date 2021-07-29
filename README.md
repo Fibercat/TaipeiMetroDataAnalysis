@@ -12,3 +12,4 @@
 ![image](https://github.com/Fibercat/TaipeiMetroDataAnalysis/blob/main/charts/DailyRidership_2016to202106.png)
 ![image](https://github.com/Fibercat/TaipeiMetroDataAnalysis/blob/main/charts/DailyRidership_vs_Covid19Cases.png)
 ![image](https://github.com/Fibercat/TaipeiMetroDataAnalysis/blob/main/charts/COVID19_HourlyRoutesTripsComparison.png)
+[Tableau Visualization result](https://public.tableau.com/views/Taipei_Metro_under_COVID-19_20210729/COVID-19?:language=zh-TW&publish=yes&:display_count=n&:origin=viz_share_link)
