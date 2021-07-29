@@ -9,8 +9,8 @@
 * Google MAPS Platform - Distance Matrix API https://developers.google.com/maps/documentation/distance-matrix/overview
 
 ## 分析結果請見: 
-[TaipeiMetroDataAnalysis_AngelaYang_202010726.pdf](https://github.com/Fibercat/TaipeiMetroDataAnalysis/blob/main/TaipeiMetroDataAnalysis_AngelaYang_202010726.pdf)
-[Tableau Visualization result](https://public.tableau.com/views/Taipei_Metro_under_COVID-19_20210729/COVID-19?:language=zh-TW&publish=yes&:display_count=n&:origin=viz_share_link)
+* [TaipeiMetroDataAnalysis_AngelaYang_202010726.pdf](https://github.com/Fibercat/TaipeiMetroDataAnalysis/blob/main/TaipeiMetroDataAnalysis_AngelaYang_202010726.pdf)
+* [Tableau Visualization result](https://public.tableau.com/views/Taipei_Metro_under_COVID-19_20210729/COVID-19?:language=zh-TW&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ![image](https://github.com/Fibercat/TaipeiMetroDataAnalysis/blob/main/charts/DailyRidership_2016to202106.png)
 ![image](https://github.com/Fibercat/TaipeiMetroDataAnalysis/blob/main/charts/DailyRidership_vs_Covid19Cases.png)
